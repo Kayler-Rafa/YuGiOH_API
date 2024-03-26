@@ -18,7 +18,7 @@ Card Search API Yu-Gi-Oh! é uma aplicação para buscar informações sobre car
 
 ## Instalação
 
-1. Abra o link ao lado ou acesse por aqui: [Yu-Gi-Oh!](https://yu-gi-oh-bu0g8c3xy-rafael-dinizs-projects.vercel.app/)
+1. Abra o link ao lado ou acesse por aqui: [Yu-Gi-Oh!](https://yu-gi-oh-api-ivory.vercel.app)
 
 ## Uso
 
