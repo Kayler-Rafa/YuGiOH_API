@@ -53,3 +53,5 @@ function getCard() {
       alert("Erro ao consultar a carta. Por favor, verifique o nome digitado e tente novamente.");
     });
 }
+
+// 
